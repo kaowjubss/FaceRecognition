@@ -75,7 +75,7 @@ follow the steps from yoloV5 in Github https://github.com/ultralytics/yolov5
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Video link
-https://youtu.be/meB0ZNBhG4k
+https://youtu.be/meB0ZNBhG4k <br/>
 https://vt.tiktok.com/ZSLRGTcaT/?t=1
 
   
