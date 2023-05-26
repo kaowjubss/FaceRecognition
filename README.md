@@ -33,7 +33,12 @@ follow the steps from yoloV5 in Github https://github.com/ultralytics/yolov5
    - set dataset folder
    - set number of class
    - set list of class name by order from roboflow
-      <img
+     <img
+  src="/Readme_md/order.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+     <img
   src="/Readme_md/yaml.png"
   alt="Alt text"
   title="Optional title"
