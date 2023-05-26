@@ -1,0 +1,5 @@
+train: D:\University_Work\y2\sem2\RobotLab\FaceDetectProject\TrainingData
+val: D:\University_Work\y2\sem2\RobotLab\FaceDetectProject\TrainingData
+
+nc: 7
+names: ['Kaow', 'Mean', 'Phone', 'Saung', 'Tho', 'Tom', 'zendaya']
