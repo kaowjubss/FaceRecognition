@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Kaow', 'Mean', 'Phone', 'Saung', 'Tho']
+
+roboflow:
+  workspace: tho
+  project: group1-assignment-3
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tho/group1-assignment-3/dataset/4
