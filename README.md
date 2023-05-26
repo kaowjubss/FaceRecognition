@@ -26,7 +26,7 @@ Label face and select class(name)
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-### Model Training and Deploy
+## Model Training and Deploy
 follow the steps from yoloV5 in Github https://github.com/ultralytics/yolov5
 1. clone from https://github.com/ultralytics/yolov5
 2. create file.yalm 
@@ -44,11 +44,35 @@ follow the steps from yoloV5 in Github https://github.com/ultralytics/yolov5
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 3. install wandb and login for result graph
-4. train model 
+   <img
+  src="/Readme_md/wandb.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+5. train model 
    - pixel(640x640) and epoch 100 times. The data will get from coco.yaml and yolov5s.pt that we set from before.
-5. result
-6. 
-7. predict
+     <img
+  src="/Readme_md/train.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+5. result<br/>
+   <img
+  src="/Readme_md/result1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <img
+  src="/Readme_md/result2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+7. predict<br/>
+   <img
+  src="/Readme_md/detect.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Video link
 
