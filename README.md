@@ -6,19 +6,19 @@
 
 # Data Preparation (Roboflow)
 
-##upload all data to Roboflow
+##upload all data to Roboflow##
 <img
   src="/Readme_md/upload2roboflow.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-##Label and anotate the data
+##Label and anotate the data##
 <img
   src="/Readme_md/anotation.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-##Augmentation
+##Augmentation##
 <img
   src="/Readme_md/augmentation.png"
   alt="Alt text"
