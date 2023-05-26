@@ -34,15 +34,24 @@ follow the steps from yoloV5 in Github https://github.com/ultralytics/yolov5
    - set number of class
    - set list of class name by order from roboflow
      <img
-  src="/Readme_md/order.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-     <img
   src="/Readme_md/yaml.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+     <img
+  src="/Readme_md/order.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+3. install wandb and login for result graph
+4. train model 
+   - pixel(640x640) and epoch 100 times. The data will get from coco.yaml and yolov5s.pt that we set from before.
+5. result
+6. 
+7. predict
+
+### Video link
+
   
   
 
