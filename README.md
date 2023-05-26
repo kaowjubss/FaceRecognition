@@ -18,6 +18,7 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### Augmentation
+ select the augmentation type and set the value
 <img
   src="/Readme_md/augmentation.png"
   alt="Alt text"
